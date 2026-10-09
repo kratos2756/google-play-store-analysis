@@ -1,5 +1,9 @@
 # Google Play Store App Market Analysis Using Python
 
+## TEAM MEMBERS
+1) MANN MRUG :- IU2441230596
+2) VEDANT JOSHI :- IU2441230651
+
 ## 1. Project Overview
 
 This project analyzes the Google Play Store Apps dataset using Python and Exploratory Data Analysis (EDA) techniques.
